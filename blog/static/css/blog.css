@@ -1,12 +1,12 @@
 h1 a, h2 a {
-    color: #C25100;
-    font-family: 'Lobster';
+    color: #FF9999;
+    font-family: 'DotGothic16';
 }
 body {
     padding-left: 15px;
 }
 .page-header {
-    background-color: #C25100;
+    background-color: #996600;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -16,13 +16,24 @@ body {
     font-size: 36pt;
     text-decoration: none;
 }
+.page-header h4, .page-header h4 a:active {
+    color: #ffffff;
+
+}
+
+.second-header {
+    color: #FF6666;
+    margin-left: 15px;
+
+}
+
 
 .content {
     margin-left: 40px;
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'DotGothic16', sans-serif;
 }
 
 .date {
